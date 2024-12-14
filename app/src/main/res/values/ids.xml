@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity -->
+    <item name="teacherLoginBtn" type="id"/>
+    <item name="studentLoginBtn" type="id"/>
+
+    <!-- Login Activities (Teacher and Student) -->
+    <item name="usernameEditText" type="id"/>
+    <item name="passwordEditText" type="id"/>
+    <item name="loginButton" type="id"/>
+
+    <!-- TeacherDashboardActivity -->
+    <item name="recyclerView" type="id"/>
+    <item name="saveButton" type="id"/>
+
+    <!-- StudentDashboardActivity -->
+    <item name="attendanceStatusTv" type="id"/>
+
+    <!-- student_item.xml (RecyclerView item) -->
+    <item name="studentNameTv" type="id"/>
+    <item name="attendanceCheckBox" type="id"/>
+</resources>
